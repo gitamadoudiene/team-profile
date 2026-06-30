@@ -1,6 +1,8 @@
 # sarata
 
 - Rôle :programmeur
-- Couleur préférée :
-- Langage de programmation préféré :
-- Hobby :
+- Couleur préférée :rose
+- Langage de programmation préféré :html
+- Hobby :chien
+- objectif: devenir developpeur
+
